@@ -1,0 +1,333 @@
+/*===================== HOME SECTION  ===================*/
+
+#main-h {
+	height: 770px;
+	padding-top: 40px;
+	max-width: 1600px;
+	background: url(../img/Home-Background.jpg) no-repeat center center ;
+	margin:auto;
+
+	
+}
+
+
+
+
+.header>div>a {
+	text-decoration: none;
+	color: #fff;
+	padding-right: 22px;
+	font-family: 'Montserrat', sans-serif;
+	font-size:15px; 
+
+}
+
+.header>div>a:hover {
+	color:#cecaca;
+}
+
+.ref:last-child {
+	padding-right:0px;
+}
+
+.main-head {
+	margin-top:25%;
+    margin-bottom:auto;
+    height:190px;
+
+}
+
+.main-head > h1 {
+	color:#f0edeb;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 48px;
+}
+
+.main-head > p {
+	color:#ffffff;
+	margin-bottom: 70px;
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+}
+
+#btn-m{
+	text-decoration: none;
+	padding:15px 30px;
+	border: solid 3px #ffffff;
+	border-radius:3px;
+	text-transform: uppercase;
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+}
+
+#btn-m:hover {
+	background-color:#ffffff;
+	color: #c0301c;
+	border-color: #ffffff;
+
+}
+
+
+/*===================== END OF HOME SECTION  ===================*/
+
+
+
+/*===================== SERVICES SECTION  ===================*/
+#services {
+	background-color: #ffffff;
+	height: 100%;
+	color: #555555;
+	margin-bottom: 5%;
+}
+
+.line {
+	margin-bottom: 30px;
+	margin-top: 30px;
+
+}
+
+.img-services>div>h3{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	color: #555555;
+}
+.img-services>div>p{
+	font-family: 'Roboto Slab', serif;
+	font-size: 14px;
+	color: #555555;
+}
+
+
+.serv>h2{
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	color: #555555;
+}
+
+.serv>p{
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 16px;
+	color: #555555;
+}
+
+/*===================== END OF SERVICES SECTION  ===================*/
+
+
+/*===================== ABOUT US SECTION  ===================*/
+#about{
+	height: 100%;
+	background-color: #ffffff;
+	margin-top: 5%;
+}
+
+.ab>h2{
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;	
+	color: #555555;
+}
+
+.ab>p{
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 16px;
+	color: #555555;
+}
+
+.about-m {
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;	
+	color: #555555;
+
+
+}
+
+.txt-ab{
+	margin-top: 90px;
+}
+
+.p-ab{
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 14px;
+	color: #555555;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+/*===================== SLIDER SECTION  ===================*/
+
+
+.slider-p>h3{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	color:#555555;
+}
+
+.slider-p>p{
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 13px;
+	color: #555555;
+}
+
+.slider-p{
+	margin-top: 75px;
+}
+
+/*===================== END OF SLIDER SECTION  ===================*/
+
+
+
+/*===================== LATEST WORKS SECTION  ===================*/
+#l-works{
+	height: 100%;
+	background: #ffffff;
+}
+
+
+.l-w>h2{
+	color: #555555;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;	
+}
+
+.l-w>p>a{
+	text-decoration: none;
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 16px;
+	color: #555555;
+	padding-right: 10px;
+}
+
+.l-w>p>a:hover{
+	color: #c0301c;
+}
+.l>.img-lin>a>img{
+	max-width:100%;
+	height: auto;
+}
+
+
+/*===================== END OF LATEST WORKS SECTION  ===================*/
+
+
+.img-l-w{
+	margin-top: 75px;
+}
+
+.img-lin{
+	height: 320px;
+	width: 360px;
+}
+
+.img-lin>a{
+background:none;
+display:block;
+width:100%;
+height:100%;
+
+}
+
+.img-lin>a>img:hover{
+opacity: 0.2;
+}
+
+.img-lin>a{
+	background: url(../img/bg-h.png);
+	max-width: 100%
+}
+
+.l{
+	margin-bottom: 30px;
+}
+
+
+/*===================== PSEVDO FOOTER SECTION  ===================*/
+
+#ps-footer{
+	background: url(../img/footer-bg.jpg) no-repeat center center;
+	height: 368px;
+	padding-top: 3%;
+
+}
+
+
+.ft-txt{
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 30px;
+	color: #ffffff;
+
+}
+
+
+
+#ft-btn{
+	text-decoration: none;
+	padding:15px 30px;
+	border: solid 3px #ffffff;
+	border-radius:3px;
+	text-transform: uppercase;
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+}
+
+#ft-btn:hover{
+	background-color:#ffffff;
+	color: #c0301c;
+	border-color: #ffffff;
+}
+
+.ft{
+	margin-top: 75px;
+}
+
+/*=====================END OF PSEVDO FOOTER SECTION  ===================*/
+
+
+
+/*=====================END OF PSEVDO FOOTER SECTION  ===================*/
+
+
+.date{
+	padding: 10px 20px;
+	color: #555555;
+	font-family: 'Montserrat', sans-serif;
+	border: 2px solid #555555;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.sex-p{
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-bottom: 30px;
+	font-size: 14px;
+}
+
+#about>img {
+	max-width: 100%
+
+}
+
+
+section#alternative{
+	z-index: 6;
+	display: none;
+	background: #69231f;
+	height: 100px;
+	width: 100%;
+
+}
+
+#log-alt{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+

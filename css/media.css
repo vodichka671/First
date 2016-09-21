@@ -1,0 +1,17 @@
+@media screen and (max-width: 1040px) {
+	#main-h {
+		display: none;
+
+	}
+
+	section#alternative{
+		position: fixed;
+
+		display: block;
+	}
+	
+	.img-l-w {
+		text-align: center;
+	}
+	
+}
